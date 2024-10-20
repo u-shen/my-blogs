@@ -1,0 +1,15 @@
+.NBlogs-container {
+  margin: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+input,
+textarea {
+  width: 600px;
+}
+textarea {
+  height: 300px;
+}

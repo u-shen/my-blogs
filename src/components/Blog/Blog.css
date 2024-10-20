@@ -1,0 +1,10 @@
+.blog-post-container {
+  padding: 0 10px;
+  border-radius: 4px;
+  box-shadow: 0px 0px 8px 4px #00bcd4;
+  background-color: #212121;
+}
+.blog-title {
+  padding: 30px;
+  color: #00bcd4;
+}
